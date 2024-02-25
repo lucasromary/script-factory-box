@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 sudo apt-get update
 sudo apt-get install ca-certificates curl
 sudo install -m 0755 -d /etc/apt/keyrings
